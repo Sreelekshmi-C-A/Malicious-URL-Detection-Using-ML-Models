@@ -1,1 +1,4 @@
 # Malicious-URL-Detection-Using-ML-Models
+This project presents a machine learning-based approach for detecting malicious URLs. The goal is to classify URLs as either benign or malicious using their lexical features without relying on traditional cybersecurity methods like blacklist filtering or signature matching. By analyzing the structure and patterns within URLs (such as their length, presence of digits/special characters, etc.), multiple supervised learning algorithms—including Random Forest, Naive Bayes, Decision Tree, and K-Nearest Neighbors—are trained and evaluated for predictive accuracy.
+
+This project is purely machine learning-focused and does not involve network traffic monitoring or real-time system protection. Instead, it serves as a proof-of-concept for how ML models can effectively detect suspicious URLs using data-driven techniques.
